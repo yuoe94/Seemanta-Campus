@@ -4,7 +4,7 @@ A simple, responsive job and internship board built for students and campus recr
 
 ## 🌐 Live Demo
 
-Check out the live demo of Seemanta Campus [here](https://seemanta-campus.vercel.app/).
+Check out the live demo of Seemanta Campus [here](https://seemantacampus22.vercel.app/).
 
 ## 🚀 Features
 
